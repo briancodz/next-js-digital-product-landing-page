@@ -2,17 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Details
 This is a landing page for a company that sells digital products. I developed this website using Next JS and Chakra UI
 
-Kindly star and fork the repo to make in contributions
+Checkout [live-demo](https://next-js-digital-product-landing-page.vercel.app/) 
+
+Kindly star and fork the repo to make any contributions
 
 ## Screenshots 
 # Home
-![Home](https://github.com/yehnda/next-js-digital-product-landing-page/screenshots/home.png)
+![Home](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/home.png)
 
 # About
-![About](https://github.com/yehnda/next-js-digital-product-landing-page/screenshots/home.png)
+![About](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/home.png)
 
 # Testimonials
-![Testimonials](https://github.com/yehnda/next-js-digital-product-landing-page/screenshots/home.png)
+![Testimonials](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/home.png)
 
 ## Getting Started
 
