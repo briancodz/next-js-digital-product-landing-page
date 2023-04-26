@@ -11,10 +11,10 @@ Kindly star and fork the repo to make any contributions
 ![Home](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/home.png)
 
 # About
-![About](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/home.png)
+![About](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/about.png)
 
 # Testimonials
-![Testimonials](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/home.png)
+![Testimonials](https://github.com/yehnda/next-js-digital-product-landing-page/blob/main/screenshots/testimonials.png)
 
 ## Getting Started
 
