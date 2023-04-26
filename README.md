@@ -4,6 +4,16 @@ This is a landing page for a company that sells digital products. I developed th
 
 Kindly star and fork the repo to make in contributions
 
+## Screenshots 
+# Home
+![Home](https://github.com/yehnda/next-js-digital-product-landing-page/screenshots/home.png)
+
+# About
+![About](https://github.com/yehnda/next-js-digital-product-landing-page/screenshots/home.png)
+
+# Testimonials
+![Testimonials](https://github.com/yehnda/next-js-digital-product-landing-page/screenshots/home.png)
+
 ## Getting Started
 
 First, install the necessary dependencies:
